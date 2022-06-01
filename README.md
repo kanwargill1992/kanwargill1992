@@ -15,4 +15,4 @@
 - 🌱 I’m currently learning Elixir
 - 🚶 I'm currently working to make a better world 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanwargill1992)](https://github.com/kanwargill1992/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanwargill1992)](https://github.com/kanwargill1992/github-readme-stats)
