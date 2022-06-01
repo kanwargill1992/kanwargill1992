@@ -14,3 +14,5 @@
 - ⚡ I'm working as a Front End Developer at Drakkar Digital
 - 🌱 I’m currently learning Elixir
 - 🚶 I'm currently working to make a better world 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanwargill1992)](https://github.com/kanwargill1992/github-readme-stats)
