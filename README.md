@@ -11,4 +11,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- ⚡ I'm working as a Front End Developer at Drakkar Digital
 - 🌱 I’m currently learning Elixir
+- 🚶 I'm currently working to make a better world 
