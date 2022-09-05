@@ -13,7 +13,6 @@
 -->
 - ⚡ I'm working as a Front End Developer at Drakkar Digital
 - 🌱 I’m currently learning Elixir and Phoenix
-- 😄 Svelte is fun
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanwargill1992&layout=compact)](https://github.com/kanwargill1992/github-readme-stats)
