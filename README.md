@@ -15,4 +15,3 @@
 - 🌱 I’m currently learning Elixir and Phoenix and svelte
 - 🤔 As a front end developer, learning ELixir is awesome and Tailwind along with alpinejs provides great developer experience
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanwargill1992&layout=compact)](https://github.com/kanwargill1992/github-readme-stats)
