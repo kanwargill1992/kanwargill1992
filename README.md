@@ -13,5 +13,5 @@
 -->
 - ⚡ I'm working as a Front End Developer at Drakkar Digital / Omerlo Technologies
 - 🌱 I’m currently learning Elixir and Phoenix and svelte
-- 🤔 As a front end developer, learning ELixir is awesome and Tailwind along with alpinejs provides great developer experience
+- 🤔 As a front end developer, Tailwind along with alpinejs provides great developer experience
 
