@@ -11,6 +11,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- ⚡ I'm working as a Front End Developer at Omerlo Technologies.
-- 🌱 I’m currently learning Elixir and Phoenix and svelte.
+- ⚡ I work as a Front-end Developer.
+- 🌱 I’m currently learning Elixir and Phoenix, and Svelte.
 
